@@ -7,7 +7,7 @@
 ## Algorithms
 
 ### Search
-- Linear Search
+- [Linear Search](https://github.com/gabrielgyns/algorithms/blob/main/search/linear-search.py)
 - [Binary Search](https://github.com/gabrielgyns/algorithms/blob/main/search/binary-search.py)
 
 ### Sort
