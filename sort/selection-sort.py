@@ -20,6 +20,10 @@ def selection_sort(arr):
         That means, we need to check `n` elements, `n` times.
 
         Complexity: O(n²)
+
+        Obs.: As you can see, I created the find_smallest isolated function
+        helping the reading of the code (and coz the sources did kinda the same 
+        and I thought it's better), but some algorithms will bem all together.
     """
     sorted_arr = []
 

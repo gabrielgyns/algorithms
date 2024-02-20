@@ -11,5 +11,6 @@
 - [Binary Search](https://github.com/gabrielgyns/algorithms/blob/main/search/binary-search.py)
 
 ### Sort
+- [Selection Sort](https://https://github.com/gabrielgyns/algorithms/blob/main/sort/selection-sort.py)
 - Quick sort
 - Merge sort
